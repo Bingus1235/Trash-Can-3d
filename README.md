@@ -4,6 +4,7 @@ Low poly stylized 3D rendering of a traditional metal garbage bin. It features a
 Sketch-fab: https://sketchfab.com/3d-models/metal-trashcan-00dcd68130cc4a919ffa9ff1a525de37
 
 Images:
+<br>
 <img width="300" height="317" alt="image" src="https://github.com/user-attachments/assets/309e4f76-6fef-45c2-b77e-bab662e11069" />
 
 <img width="235" height="275" alt="image" src="https://github.com/user-attachments/assets/a161a24e-c2ec-4add-8846-e48e3b24a00f" />
